@@ -1,0 +1,2 @@
+# Ignorar todas as pastas 'build' dentro de qualquer subdiretório
+**/build/
